@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-qsvmxj/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://.github.io/csb-qsvmxj/static/js/main.ae46b538.chunk.js",
+    "main.js.map": "https://.github.io/csb-qsvmxj/static/js/main.ae46b538.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-qsvmxj/static/js/runtime-main.62ae8329.js",
+    "runtime-main.js.map": "https://.github.io/csb-qsvmxj/static/js/runtime-main.62ae8329.js.map",
+    "static/css/2.3617156a.chunk.css": "https://.github.io/csb-qsvmxj/static/css/2.3617156a.chunk.css",
+    "static/js/2.989b644c.chunk.js": "https://.github.io/csb-qsvmxj/static/js/2.989b644c.chunk.js",
+    "static/js/2.989b644c.chunk.js.map": "https://.github.io/csb-qsvmxj/static/js/2.989b644c.chunk.js.map",
+    "index.html": "https://.github.io/csb-qsvmxj/index.html",
+    "static/css/2.3617156a.chunk.css.map": "https://.github.io/csb-qsvmxj/static/css/2.3617156a.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-qsvmxj/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.989b644c.chunk.js.LICENSE.txt": "https://.github.io/csb-qsvmxj/static/js/2.989b644c.chunk.js.LICENSE.txt",
+    "static/media/primeicons.css": "https://.github.io/csb-qsvmxj/static/media/primeicons.ea535860.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62ae8329.js",
+    "static/css/2.3617156a.chunk.css",
+    "static/js/2.989b644c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ae46b538.chunk.js"
+  ]
+}
